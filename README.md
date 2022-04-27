@@ -24,7 +24,7 @@
   chmod +x *
   pip install -r requirements.txt
   python3 runrabbit.py
-  runrabbir --run --help
+  runrabbit --run --help
   ```
   
 </div>
@@ -34,7 +34,7 @@
   ```
   winget install --id Git.Git -e --source winget
   ```
-  <p> Now for the second command, you need to open the Git CMD or Git Bash and run it <br> (Agora para o segundo comando, você precisará roda-lo no CMD do Git, ou até mesmo no Git Bash)</p>
+  <p> Now for the second command, you need to open the Git CMD or Git Bash and run it: <br> (Agora para o segundo comando, você precisará roda-lo no CMD do Git, ou até mesmo no Git Bash)</p>
   
   ```
 
