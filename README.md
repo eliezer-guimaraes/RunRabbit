@@ -1,7 +1,7 @@
 # RunRabbit
 <div>
-  <p> <h2> 🐇Website recognition program for penetration testing🐇</h2> </p>
-  <p> <h3> RunRabbit is a quickly website recognition program for penetration testing and others</h3> </p>
+  <h2> 🐇Website recognition program for penetration testing🐇</h2>
+  <h3> RunRabbit is a quickly website recognition program for penetration testing and others</h3>
   <p> Curl command, whois, host, and many more commands in just one line! </p>
 </div>
 <div>
@@ -15,7 +15,7 @@
     <img src="screenshot_runrabbit_py.png" width=700>
 </div>
 <div>
-  <h1> <p> How to Install</p> </h1>
+  <h1> How to Install </h1>
   <p> To install on <b>Linux or Termux</b>, do the command block below: <br> (Para instalar no <b>Linux ou Termux</b>, faça o bloco de comando abaixo)</p>
 
   ```
@@ -42,4 +42,3 @@
  
   ```
 </div>
-<p> </p>
