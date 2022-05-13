@@ -26,7 +26,7 @@ print("o===============================================o Run Rabbit o===========
 key = "master-key-00100606"
 while key == "master-key-00100606":
 
-    help_banner = "\033[0;36mRun 'runrabbit --run --complete' to start or 'runrabbit --run --help' to see the options...\033[m"
+    help_banner = '\033[0;36mRun 'runrabbit --run --complete' to start or 'runrabbit --run --help' to see the options...\033[m'
     complete_option = 'runrabbit --run --complete'#
     help_option = 'runrabbit --run --help' # 
     simple_port_option = 'runrabbit --run --port' #
