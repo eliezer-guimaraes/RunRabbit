@@ -1,4 +1,4 @@
-# RunRabbit <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+# RunRabbit <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <div>
   <h2> 🐇Website recognition program for penetration testing🐇</h2>
   <h3> RunRabbit is a quickly website recognition program for penetration testing and others</h3>
