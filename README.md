@@ -47,4 +47,7 @@
 
 <hr>
 <b>🔴i'm not responsible for the improper use of the tool🔴</b>
+<br>
+<b>(Não me responsabilizo pelo uso indevido da ferramenta!)</b>
 <hr>
+
