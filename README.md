@@ -8,6 +8,7 @@
   <img src="./runrabbit_banner.png" width="800px">
 </div>
 <div>
+  <h1>Available Options</h1>
   <pre> <p>✔️IP address                    ✔️Port scanner
 ✔️Registry expiry date          ✔️Updated and creation date
 ✔️Name servers                  ✔️Phone numbers
