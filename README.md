@@ -22,7 +22,7 @@
   <p> To install on <b>Linux or Termux</b>, do the command block below: <br> (Para instalar no <b>Linux ou Termux</b>, faça o bloco de comando abaixo)</p>
 
   ```
-  git clone https://github.com/eliezerguimaraes001/RunRabbit.git
+  git clone https://github.com/BlackHotPepper/RunRabbit
   cd RunRabbit
   chmod +x *
   pip install -r requirements.txt
@@ -41,7 +41,7 @@
   
   ```
 
- git clone https://github.com/eliezerguimaraes001/RunRabbit.git
+ git clone https://github.com/BlackHotPepper/RunRabbit
  
   ```
 </div>
